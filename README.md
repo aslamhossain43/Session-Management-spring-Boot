@@ -1,2 +1,2 @@
-# Spring-Security-Oauth2-Spring-Boot
+# Session-Management-Spring-Boot
 All authentication
